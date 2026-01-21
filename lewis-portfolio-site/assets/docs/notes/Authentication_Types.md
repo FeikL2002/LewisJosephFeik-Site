@@ -1,6 +1,0 @@
-
-"MFA" stands for "Multi-Factor Authentication," which is a security protocol that requires users to provide multiple forms of identification for example a password, a code sent to their phone, or a fingerprint to access an account. How this works is  logging in, users need to provide not only their password but also another form of verification, like a code sent to their phone, a security key, or biometric data. One benefit that this has in the cyber world is that it improves data security by preventing unauthorized access, MFA helps safeguard sensitive data within an organization.
-
-"Biometrics" in cybersecurity is the use of unique physical traits to verify a user's identity. Biometrics are harder for fraudsters to replicate than traditional methods. One example of where biometrics are mostly used is to access airport security gates to onboard a plane.
-
-"Tokens" are physical or digital devices that verify a user's identity. They are used as part of a security protocol called token-based authentication. The token is shared with connected applications or websites to verify the user's identity. One type of token IS USB tokens a physical token that can be used to verify a user's identity. One example where tokens are used is that tokens are used to help strengthen authentication efforts by state and local government agencies. 
